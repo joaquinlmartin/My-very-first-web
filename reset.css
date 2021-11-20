@@ -1,0 +1,17 @@
+* {
+    font-family: monospace;
+    font-size: 20px;
+    color:rgb(211, 224, 235);
+    text-shadow: 2px 2px 3px black;
+}
+
+body {
+    background-color: blue;
+    background-image: url(Images/Madera.jpg!d);
+    background-size: cover;
+    margin-left: 1%;
+}
+
+h1 {
+    font-size: 150%;
+}
